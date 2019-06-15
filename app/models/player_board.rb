@@ -1,0 +1,2 @@
+class PlayerBoard < ApplicationRecord
+end
